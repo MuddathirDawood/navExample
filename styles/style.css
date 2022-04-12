@@ -6,11 +6,14 @@
 img{
     width: 150px;
     height: 100px;
-   } 
+   }
+header{
+    display: inline-flex;
+}    
 
  header, footer{
                  min-width: 100%;
-                 height: 100px;
+                 height: 120px;
                  background-color: black;
                  color: white;
                }
@@ -21,13 +24,28 @@ main{
 
 nav{
      text-align: right;
+     margin-left: 70%;
    }
 
 ul{
-   display: inline-flex; 
+   display: inline-flex;
+   padding-top: 10px;
+   padding-right: 10px; 
   }               
 
 li{
     list-style: none;
-    padding-left: 10px;
+    padding-left: 20px;
   }
+
+a:hover{
+    color: rgb(173, 182, 12);   
+ }
+ 
+a:visited{
+    color: white;
+   }
+   
+a{
+color: red;
+}  
