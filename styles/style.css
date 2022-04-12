@@ -49,3 +49,21 @@ a:visited{
 a{
 color: red;
 }  
+
+#1, #2{
+        font-size: medium;
+        font-family: 'Times New Roman', Times, serif;
+      }
+
+label{
+        width: 100px;
+        display: inline-block;
+        text-align: left;
+        margin-left: 15px;
+        margin-right: 15px;
+     }    
+
+form{
+        text-align: left;;
+         display: inline-block;
+     }      
