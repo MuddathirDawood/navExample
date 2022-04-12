@@ -39,7 +39,7 @@ li{
   }
 
 a:hover{
-    color: rgb(173, 182, 12);   
+    color: rgb(174, 182, 12);   
  }
  
 a:visited{
@@ -50,10 +50,16 @@ a{
 color: red;
 }  
 
-#1, #2{
-        font-size: medium;
-        font-family: 'Times New Roman', Times, serif;
-      }
+p{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+    text-align: center;
+ }
+
+h2{
+    padding: 10px;
+  } 
 
 label{
         width: 100px;
