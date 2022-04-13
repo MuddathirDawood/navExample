@@ -4,8 +4,8 @@
  }
 
 img{
-    width: 150px;
-    height: 100px;
+    width: 170px;
+    height: 120px;
    }
 header{
     display: inline-flex;
@@ -76,4 +76,12 @@ form{
 
 textarea{
           vertical-align: top;
-        }     
+        }
+        
+#submit{
+         width: 150px;
+         height: 25px;
+         display: inline-block;
+         margin-left: 223px;
+         margin-right: 50px;
+       }        
