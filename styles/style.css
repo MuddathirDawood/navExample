@@ -73,3 +73,7 @@ form{
         text-align: left;;
          display: inline-block;
      }      
+
+textarea{
+          vertical-align: top;
+        }     
